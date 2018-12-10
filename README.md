@@ -1,2 +1,2 @@
 # hapi
-Data structure to abstract over API
+"Phantom" data structure to abstract over API
